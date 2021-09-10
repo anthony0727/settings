@@ -7,6 +7,8 @@ TODO before installing `pyenv install`
 
 * libffi-dev
 * sqlite-devel
+* readline-devel
+* bzip2-devel
 
 make venv default :
 ```pyenv global ${venv}```
