@@ -11,6 +11,7 @@ CentOS
 * sqlite-devel
 * readline-devel
 * bzip2-devel
+* lzma-devel(?)
 
 Ubuntu
 
@@ -18,6 +19,7 @@ Ubuntu
 * libsqlite3-dev
 * libreadline-dev
 * libbz2-dev
+* lzma
 
 make venv default :
 ```pyenv global ${venv}```
