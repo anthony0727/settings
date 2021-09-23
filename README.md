@@ -19,6 +19,8 @@ Ubuntu
 * libsqlite3-dev
 * libreadline-dev
 * libbz2-dev
+* libssl-dev
+* zlib1g-dev
 * lzma
 
 make venv default :
