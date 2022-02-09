@@ -21,7 +21,7 @@ Ubuntu
 * libbz2-dev
 * libssl-dev
 * zlib1g-dev
-* lzma
+* liblzma-dev
 
 make venv default :
 ```pyenv global ${venv}```
