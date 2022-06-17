@@ -15,13 +15,7 @@ CentOS
 
 Ubuntu
 
-* libffi-dev
-* libsqlite3-dev
-* libreadline-dev
-* libbz2-dev
-* libssl-dev
-* zlib1g-dev
-* liblzma-dev
+```sudo apt-get intsall libffi-dev libsqlite3-dev libreadline-dev libbz2-dev libssl-dev zlib1g-dev liblzma-dev```
 
 make venv default :
 ```pyenv global ${venv}```
